@@ -1,0 +1,61 @@
+.container
+
+{
+    max-width: 1500px;
+width: 20%;
+margin: 20px auto;
+box-shadow: 0 0 5px rgb(185, 185, 185);
+padding: 0 15px;
+background-color: #ffffff;
+border-radius: 30px;
+height: 510px;
+margin-top: 50px;
+
+}
+
+
+.container2 {
+    
+    height: 100px;
+    color: aqua;
+    font-weight: bold;
+}
+
+
+.invoice-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+}
+
+
+.Row {
+    display: table;
+    width: 90%;
+    border-spacing: 10px;
+    outline: none;
+    margin-top: 40px;
+    margin-left: 5%;
+    border-radius: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px rgb(185, 185, 185);
+    max-width: 90%;
+    
+  }
+
+
+  .approval-container{
+    outline: none;
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+  }
+
+
+  .approval-column{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+  }

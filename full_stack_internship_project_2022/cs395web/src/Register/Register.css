@@ -1,0 +1,35 @@
+.signincontainer1{
+    background-color: rgb(183, 136, 16);
+    padding-top: 10px;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    outline: none;
+    outline-width: 2px;
+    outline-offset: 25%;
+    width: 200px;
+    height: 555px;
+    border-radius: 10px;
+}
+
+
+.headers1 {
+
+    margin-left: 55px;
+    color: black;
+    border-radius: 5px;
+    background-color: rgb(206, 206, 13);
+    padding-top: 5px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+
+}
+
+.headers1:hover {
+
+    background-color: #fff;
+    color: #777;
+}
